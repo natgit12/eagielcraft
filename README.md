@@ -1,2 +1,2 @@
 # eagielcraft
-game mabe by laxdude1
+game made by laxdude1
